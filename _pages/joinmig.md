@@ -14,21 +14,21 @@ We are always looking for new excellent group members. You will have the chance 
 To do.
 
 <h2><b>PhD Opportunities</b></h2>
-If you are interested in working with us as a PhD student or postdoc, please send Stephen Brewster an email. State briefly why you are interested and include 1) your CV, 2) your publications list and/or your latest thesis (e.g., MSc thesis or final year project report), 3) highlight the experiences and interests that are relevant to the work we do in MIG, and 4) information about your grades so far. No need for a separate cover letter or certificates.
+If you are interested in working with us as a PhD student or postdoc, please send Stephen Brewster an <a href="mailto:Stephen.Brewster@glasgow.ac.uk">email</a>. State briefly why you are interested and include 1) your CV, 2) your publications list and/or your latest thesis (e.g., MSc thesis or final year project report), 3) highlight the experiences and interests that are relevant to the work we do in MIG, and 4) information about your grades so far. No need for a separate cover letter or certificates.
 
 Apart from the open positions, there are scholarships every year offered by the University of Glasgow and others.
 
 <ul>
-  <li>Scholarships through the University of Glasgow: deadline for the opportunities below is 31 January every year. More info about the application process can be found here:</li>
+  <li>Scholarships through the University of Glasgow: deadline for the opportunities below is 31 January every year. More info about the application process can be found <a href="https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/">here:</a></li>
     <ul>
-      <li>EPSRC Studentship: covers tuition fees at the UK rate and offers a monthly stipend. Non-UK students are eligible but note that tuition fees are paid at the UK rate, and not the international one, so you would need to fund the difference using other means. Deadline is 31 January every year. More info here.</li>
-      <li>College of Science and Engineering Studentship: covers full tuition fees at the international rate and offers a monthly stipend. Deadline is 31 January every year. More info here.</li>
+      <li>EPSRC Studentship: covers tuition fees at the UK rate and offers a monthly stipend. Non-UK students are eligible but note that tuition fees are paid at the UK rate, and not the international one, so you would need to fund the difference using other means. Deadline is 31 January every year. More info <a href="https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/"> here.</a></li>
+      <li>College of Science and Engineering Studentship: covers full tuition fees at the international rate and offers a monthly stipend. Deadline is 31 January every year. More info <a href="https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/">here.</a></li>
       <li>Excellence Bursaries: covers the tuition fees fully for UK students, and partially (£10,000) for international students. Note that this scheme does NOT include a monthly stipend, so you need to finance your life expenses using other means.</li>
       <li>Chinese Scholarship Council nomination: the School of Computing Science can nominate up to 4 candidates every year for the CSC scholarship. It is not guaranteed that the CSC will award our nominees, but historically this has always been the case. Our college then matches this funding to create a fully funded studentship (tuitions + stipend).</li>
     </ul>
   <li>Industry co-funded Studentships: if you are able to secure half the costs of a PhD studentship from a potential industry partner (currently set at £35,000), I can support you in getting match funding from the University of Glasgow to create a fully funded studentship (tuition fees at the UK rate + monthly stipend).</li>
   <li>Industry studentships: some companies offer scholarships. Examples include: Google, Adobe, Facebook, and Microsoft.</li>
-  <li>Carnegie PhD Scholarships: highly competitive - more info here.</li>
+  <li>Carnegie PhD Scholarships: highly competitive - more info <a href="https://carnegie-trust.org/award-schemes/carnegie-phd-scholarships/">here.</a></li>
   <li>SOCIAL CDT: The UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents (or SOCIAL CDT) funds 15 PhD students every year. Dr Mohamed Khamis is part of the supervision team. You would need to select one of projects listed on the SOCIAL CDT website, and apply before the deadline. More details about the eligibility criteria and deadlines can be found on the [SOCIAL CDT website] (https://socialcdt.org/).</li>
 </ul>
 
