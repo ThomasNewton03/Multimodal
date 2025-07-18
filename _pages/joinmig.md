@@ -36,17 +36,16 @@ Apart from the open positions, there are scholarships every year offered by the 
 <h2><b>Post-doc Opportunities</b></h2>
 There are postdoc fellowships available every year. We are happy to support excellent candidates in their application for a fellowship to fund a postdoc in our group. There are following opportunities (The deadlines were last checked in January 2021, they may have changed since then):
 
-Leverhulme Trust Early Career Fellowship: Deadline is in February every year.
 <ul>
-  <li>The Marie Curie fellowship: Deadline is in September every year.</li>
-  <li>The Newton International Fellowship: Deadline is in March every year.</li>
-  <li>The Daphne Jackson Trust: Open call.</li>
-  <li>The Daphne Jackson Trust: Open call.</li>
-  <li>The EPSRC Fellowship: Open call.</li>
-  <li>The Dorothy Hodgkin Fellowship: Deadline is in November every year.</li>
-  <li>The Ernest Rutherford Fellowship: Deadline is in September every year.</li>
-  <li>The Royal Academy of Engineering Research Fellowship: Deadline is in September every year.</li>
-  <li>The Royal Society Research Fellowship: Deadline is in August every year.</li>
+  <a href="https://www.leverhulme.ac.uk/early-career-fellowships">Leverhulme Trust Early Career Fellowship:</a> Deadline is in February every year.
+  <li><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">The Marie Curie fellowship:</a> Deadline is in September every year.</li>
+  <li><a href="https://royalsociety.org/grants/newton-international/">The Newton International Fellowship:</a> Deadline is in March every year.</li>
+  <li><a href="https://www.ukri.org/councils/epsrc/">The Daphne Jackson Trust:</a> Open call.</li>
+  <li><a href="https://www.ukri.org/councils/epsrc/">The EPSRC Fellowship:</a> Open call.</li>
+  <li><a href="https://royalsociety.org/grants/dorothy-hodgkin-fellowship/">The Dorothy Hodgkin Fellowship:</a> Deadline is in November every year.</li>
+  <li><a href="https://www.ukri.org/councils/stfc/">The Ernest Rutherford Fellowship:</a> Deadline is in September every year.</li>
+  <li><a href="https://www.raeng.org.uk/grants-prizes/grants/support-for-research/raeng-research-fellowship">The Royal Academy of Engineering Research Fellowship:</a> Deadline is in September every year.</li>
+  <li><a href="http://royalsociety.org/grants/university-research/">The Royal Society Research Fellowship:</a> Deadline is in August every year.</li>
   <li><b>Note that in addition to the fellowship you can also apply for match-funding from the University of Glasgow’s LKAS scheme to top up your fellowship by £100,000.
 Master and Level 4 final year projects for University of Glasgow students
 If you are a student at University of Glasgow looking for a Master or a Level 4 final year project, contact me (or any group member) via email or stop by my office. We often have topics in HCI, Usable Security, Thermal Imaging, Eye Tracking, and Virtual Reality.</b></li>
