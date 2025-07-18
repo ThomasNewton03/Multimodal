@@ -40,61 +40,61 @@ profiles:
       <p>Research Associate</p>  
   - align: left
     image: team/david.jpg
-    content: team/about_david.md
+    #content: team/about_david.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>  
   - align: right
     image: team/shuhao.jpg
-    content: team/about_shuhao.md
+    #content: team/about_shuhao.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>  
   - align: right
     image: team/diego.jpg
-    content: team/about_diego.md
+    #content: team/about_diego.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p> 
   - align: right
     image: team/jake.jpg
-    content: team/about_jake.md
+    #content: team/about_jake.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p> 
   - align: right
     image: team/iain.jpg
-    content: team/about_iain.md
+    #content: team/about_iain.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
   - align: right
     image: team/melvin.jpg
-    content: team/about_melvin.md
+    #content: team/about_melvin.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
   - align: right
     image: team/laura.jpg
-    content: team/about_laura.md
+    #content: team/about_laura.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
   - align: right
     image: team/jacqueline.jpg
-    content: team/about_jacqueline.md
+    #content: team/about_jacqueline.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
   - align: right
     image: team/thomas.jpg
-    content: team/about_thomas.md
+    #content: team/about_thomas.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
   - align: right
     image: team/ammar.jpg
-    content: team/about_ammar.md
+    #content: team/about_ammar.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
