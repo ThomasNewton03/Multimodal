@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /team/
-title: Team
+permalink: /people/
+title: People
 nav: true
 nav_order: 7
 
