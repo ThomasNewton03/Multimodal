@@ -33,17 +33,20 @@ SOCIAL CDT: The UKRI Centre for Doctoral Training in Socially Intelligent Artifi
 There are postdoc fellowships available every year. We are happy to support excellent candidates in their application for a fellowship to fund a postdoc in our group. There are following opportunities (The deadlines were last checked in January 2021, they may have changed since then):
 
 Leverhulme Trust Early Career Fellowship: Deadline is in February every year.
-- The Marie Curie fellowship: Deadline is in September every year.
-- The Newton International Fellowship: Deadline is in March every year.
-- The Daphne Jackson Trust: Open call.
-- The EPSRC Fellowship: Open call.
-- The Dorothy Hodgkin Fellowship: Deadline is in November every year.
-- The Ernest Rutherford Fellowship: Deadline is in September every year.
-- The Royal Academy of Engineering Research Fellowship: Deadline is in September every year.
-- The Royal Society Research Fellowship: Deadline is in August every year.
-- Note that in addition to the fellowship you can also apply for match-funding from the University of Glasgow’s LKAS scheme to top up your fellowship by £100,000.
+<ul>
+  <li>The Marie Curie fellowship: Deadline is in September every year.</li>
+  <li>The Newton International Fellowship: Deadline is in March every year.</li>
+  <li>The Daphne Jackson Trust: Open call.</li>
+  <li>The Daphne Jackson Trust: Open call.</li>
+  <li>The EPSRC Fellowship: Open call.</li>
+  <li>The Dorothy Hodgkin Fellowship: Deadline is in November every year.</li>
+  <li>The Ernest Rutherford Fellowship: Deadline is in September every year.</li>
+  <li>The Royal Academy of Engineering Research Fellowship: Deadline is in September every year.</li>
+  <li>The Royal Society Research Fellowship: Deadline is in August every year.</li>
+  <li>Note that in addition to the fellowship you can also apply for match-funding from the University of Glasgow’s LKAS scheme to top up your fellowship by £100,000.
 Master and Level 4 final year projects for University of Glasgow students
-If you are a student at University of Glasgow looking for a Master or a Level 4 final year project, contact me (or any group member) via email or stop by my office. We often have topics in HCI, Usable Security, Thermal Imaging, Eye Tracking, and Virtual Reality.
+If you are a student at University of Glasgow looking for a Master or a Level 4 final year project, contact me (or any group member) via email or stop by my office. We often have topics in HCI, Usable Security, Thermal Imaging, Eye Tracking, and Virtual Reality.</li>
+</ul>
 
 <h2><b>International BSc / MSc students</b></h2>
 To do.
