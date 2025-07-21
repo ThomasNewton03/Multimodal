@@ -107,6 +107,7 @@ profiles:
 
 
 
+
 profiles_interns:
   - align: right
     image: team/jolie.png
