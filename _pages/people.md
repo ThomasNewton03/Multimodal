@@ -20,8 +20,14 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Research Co-Investigator / Research Associate</p> 
+  - align: left
+    image: team/florian.png
+    content: team/about_florian.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Research Co-Investigator / Research Associate</p> 
   - align: right
-    image: team/patrizia.jpg
+    image: team/patrizia.png
     content: team/about_patrizia.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -33,68 +39,68 @@ profiles:
     more_info: >
       <p>Co-Investigator</p>  
   - align: right
-    image: team/shaun.jpg
+    image: team/shaun.png
     content: team/about_shaun.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Research Associate</p>  
   - align: left
-    image: team/david.jpg
-    #content: team/about_david.md
+    image: team/david.png
+    content: team/about_david.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>  
   - align: right
-    image: team/shuhao.jpg
-    #content: team/about_shuhao.md
+    image: team/shuhao.png
+    content: team/about_shuhao.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>  
   - align: right
-    image: team/diego.jpg
-    #content: team/about_diego.md
+    image: team/diego.png
+    content: team/about_diego.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p> 
   - align: right
-    image: team/jake.jpg
-    #content: team/about_jake.md
+    image: team/jake.png
+    content: team/about_jake.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p> 
   - align: right
-    image: team/iain.jpg
-    #content: team/about_iain.md
+    image: team/iain.png
+    content: team/about_iain.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
   - align: right
-    image: team/melvin.jpg
-    #content: team/about_melvin.md
+    image: team/melvin.png
+    content: team/about_melvin.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
   - align: right
-    image: team/laura.jpg
-    #content: team/about_laura.md
+    image: team/laura.png
+    content: team/about_laura.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
   - align: right
-    image: team/jacqueline.jpg
-    #content: team/about_jacqueline.md
+    image: team/jacqueline.png
+    content: team/about_jacqueline.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
   - align: right
-    image: team/thomas.jpg
-    #content: team/about_thomas.md
+    image: team/thomas.png
+    content: team/about_thomas.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
   - align: right
-    image: team/ammar.jpg
-    #content: team/about_ammar.md
+    image: team/ammar.png
+    content: team/about_ammar.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
